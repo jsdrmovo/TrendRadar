@@ -2,18 +2,27 @@ DeepSeek
 
 宇树
 王兴兴
+机器人
+人形机器人
+智能
 
 特斯拉
 马斯克
+SpaceX
+自动驾驶
 
 微软
 Microsoft
+Github
+Copilot
 
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
+显卡
+ai芯片
+高性能芯片
 
 谷歌
 google
@@ -35,10 +44,6 @@ ios
 ai
 !gai
 人工智能
-
-自动驾驶
-
-机器人
 
 国产
 中国
@@ -63,6 +68,13 @@ ai
 
 游戏
 主机
+主机游戏
+RPG
+ARPG
+任天堂
+FromSoftware
+宫崎英高
+魂系
 
 期货
 股市
